@@ -1,0 +1,10 @@
+:root {
+  --light-green: #299;
+  --dark-green: #277;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
